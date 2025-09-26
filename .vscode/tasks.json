@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Playwright Test: testqacademy",
+			"type": "shell",
+			"command": "npx",
+			"args": [
+				"playwright",
+				"test",
+				"tests/testqacademy.spec.ts"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

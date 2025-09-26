@@ -1,4 +1,4 @@
-# 🎭 MCP + Playwright + GitHub Copilot Framework
+# 🎭 Playwright + GitHub Copilot Framework
 
 Framework de pruebas automatizadas que usa GitHub Copilot para generar tests con lenguaje natural.
 
@@ -15,9 +15,8 @@ Framework de pruebas automatizadas que usa GitHub Copilot para generar tests con
 git clone https://github.com/TheGatogol/mcp-test-automation.git
 cd mcp-test-automation
 
-# Instalar dependencias y navegadores
-npm install
-npx playwright install
+# Instalar todo automáticamente (dependencias + navegadores)
+npm run setup
 ```
 
 ## Crear Tests con Copilot

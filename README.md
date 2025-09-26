@@ -12,8 +12,8 @@ Framework de pruebas automatizadas que usa GitHub Copilot para generar tests con
 
 ```bash
 # Clonar el repositorio
-git clone [url-del-repo]
-cd [nombre-proyecto]
+git clone https://github.com/TheGatogol/mcp-test-automation.git
+cd mcp-test-automation
 
 # Instalar dependencias y navegadores
 npm install

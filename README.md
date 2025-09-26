@@ -1,4 +1,4 @@
-# 🎭 Playwright + GitHub Copilot Framework
+# 🎭 MCP + Playwright + GitHub Copilot Framework
 
 Framework de pruebas automatizadas que usa GitHub Copilot para generar tests con lenguaje natural.
 
